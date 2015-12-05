@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>pac_man.jpeg</file>
+        <file>navy_ghost.png</file>
+        <file>dot.png</file>
+    </qresource>
+</RCC>
